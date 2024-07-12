@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm  Sudarshan Reddy</h1>
 <h3 align="center">A passionate regarding DSA and full stack Web Development from Bharath</h3>
-<img align="right" width="400" scr="https://github.com/user-attachments/assets/53dcd5fe-0f5f-4a2e-b523-0d43ff1297a4"  alt="coading">
+<!-- <img align="right" width="400" scr="https://github.com/user-attachments/assets/53dcd5fe-0f5f-4a2e-b523-0d43ff1297a4"  alt="coading"> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=explore-12&label=Profile%20views&color=0e75b6&style=flat" alt="explore-12" /> </p>
 
 - 🌱 I’m currently learning **DSA and Frontend development**
